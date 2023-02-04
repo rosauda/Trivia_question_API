@@ -4,7 +4,8 @@ import requests
 
 parameters = {
     "amount": 10,
-    "type": "boolean"
+    "type": "boolean",
+    "category": 18
 }
 
 # ---------------------------- GETTING TRIVIA QUESTIONS USING API ------------------------------- #
