@@ -7,7 +7,6 @@ parameters = {
     "type": "boolean"
 }
 
-
 # ---------------------------- GETTING TRIVIA QUESTIONS USING API ------------------------------- #
 
 # Requesting data
